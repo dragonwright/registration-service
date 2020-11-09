@@ -1,0 +1,6 @@
+.bundle/
+Gemfile.lock
+*.gem
+gems
+settings/registration_service.json
+/test/package/installed
